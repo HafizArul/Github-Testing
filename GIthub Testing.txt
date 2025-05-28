@@ -1,4 +1,4 @@
 Apa itu repositori Github-Testing?
 - Repositori ini seperti yang telah dijelaskan bahwa repo ini hanyalah percobaan menggunakan Github VCS (Version Control System)
 - Repo ini bukanlah sebuah repo untuk project apapun
-- Repo ini hanya sebatas pembelajaran sederhana tentang VCS
+- Hanya sebatas pembelajaran sederhana tentang VCS
